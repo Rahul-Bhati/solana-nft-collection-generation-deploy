@@ -1,0 +1,38 @@
+{
+  "name": "Tomodachi #2",
+  "symbol": "Tomo",
+  "description": "My first collection",
+  "seller_fee_basis_points": 1000,
+  "image": "2.png",
+  "external_url": "https://rahul-bhati.github.io/",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "HotPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Oval"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5rZv3dFVpj1kJFDdfif5gANUhGLXzRAB7uKUjDVq36Jn",
+        "share": 100
+      }
+    ]
+  }
+}

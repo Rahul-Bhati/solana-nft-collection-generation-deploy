@@ -1,0 +1,234 @@
+{
+  "program": {
+    "candyMachine": "Bcc3ZboU2krzsZqN6TKQYfdRDNnnDhLzb8YvRthyZZCx",
+    "candyGuard": "",
+    "candyMachineCreator": "GjYM4s7U4sLp9X5tYrbTzui9h5ruaN4H6HrzyebDsApx",
+    "collectionMint": "E4b26uA7esgDxkZVZw4tgsbXht3i5pQh8bJXLhJLP3Yx"
+  },
+  "items": {
+    "-1": {
+      "name": "Tomodachi #0",
+      "image_hash": "3105a7a732f94849144dc43c89bb62b0cd511cfe12bd0dc1b615649b810a816d",
+      "image_link": "https://arweave.net/pwYc_3_oMVKhPGPdXpxTEDT-ISwyeGBrWDvUXgYdTJU?ext=png",
+      "metadata_hash": "66499f51c3f5ff74828f51b3722801bac5da4019738d44ab1c8292ff61aef409",
+      "metadata_link": "https://arweave.net/kKZEiT82ISSoS0Lg5I-ldUQRRgL0tyBAXYJXp482rfI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Tomodachi #0",
+      "image_hash": "3105a7a732f94849144dc43c89bb62b0cd511cfe12bd0dc1b615649b810a816d",
+      "image_link": "https://arweave.net/GF4uBvNWDw4zNkxnVQzw0qnw-7stEAmAYFj1J0LSR88?ext=png",
+      "metadata_hash": "66499f51c3f5ff74828f51b3722801bac5da4019738d44ab1c8292ff61aef409",
+      "metadata_link": "https://arweave.net/mcalNwHCpGoINHibU1HttAmBTN_UwjLDiwRuGQOCUkU",
+      "onChain": true
+    },
+    "1": {
+      "name": "Tomodachi #1",
+      "image_hash": "a59a21f5667944b003a4ca7337f4de812debedbbd45bebfab6ca50019658c58e",
+      "image_link": "https://arweave.net/zFXpHVQ79uIgYptnHaNtvrorLOAU_ZP4EdpL1rYmbTw?ext=png",
+      "metadata_hash": "d36493ac5ce70b0f2b970b94456370e8c51b226feb61ce3aff0c993bb5135d10",
+      "metadata_link": "https://arweave.net/1WfuOH5tcmA_ybakGoMp2EFtbfOSPRjVB2SeRXw0Pp4",
+      "onChain": true
+    },
+    "2": {
+      "name": "Tomodachi #2",
+      "image_hash": "6c64fec71e20f0539702cfa8d9a052812ec4d0c0eb409217f17bdb30a5f3131b",
+      "image_link": "https://arweave.net/I6Ywt-4Ymccz5edCxzWv764dkTywZCOJOIduadtQSNM?ext=png",
+      "metadata_hash": "8d7922725cc1a561fd047aa206984e78549e1181d581a2505bc971cc39f3a97e",
+      "metadata_link": "https://arweave.net/aS__oMeYIWPyx8RdI_BdPiBysKi-o8huwGnLa5VXJyk",
+      "onChain": true
+    },
+    "3": {
+      "name": "Tomodachi #3",
+      "image_hash": "810427f10b3963477c59f8211f5039e7443cd3ae9df39e2a62679da340265127",
+      "image_link": "https://arweave.net/JBoXyQvSGASCPnxFQe6nU0qEP6inV4pKjFmhEkGRB_s?ext=png",
+      "metadata_hash": "adf22cf8f11942328a59156ddee42c5efd82a139b2a7d7976f0160953abe1d78",
+      "metadata_link": "https://arweave.net/RG00HE6wO-TmL3bTh1_4GD19xqiGsMe2f4qXVGja1PQ",
+      "onChain": true
+    },
+    "4": {
+      "name": "Tomodachi #4",
+      "image_hash": "b8eb1814a97eab7035fe97c4c5ee862aaa3d8c44f1893db99b3f2b2d5ef36011",
+      "image_link": "https://arweave.net/KwFF8NI1Lm-gVZ8_H5Q2MIRdgqIwXHStHYqBuDlUpTA?ext=png",
+      "metadata_hash": "7b57062cf5ef3cebb2e7b005ee2ceeafd4e28e7f95796a2861834e77a13c1a67",
+      "metadata_link": "https://arweave.net/j0lfrQmmBYwKAP88LA3d0xiQUfzVqMcvctGw50a_8d4",
+      "onChain": true
+    },
+    "5": {
+      "name": "Tomodachi #5",
+      "image_hash": "0d8814a4b6ad69562689eb80dfbd5d7e101060da2ab1d56c58ead31e4af214b0",
+      "image_link": "https://arweave.net/3_FuAfApbyE7Q-fhBqQ-1mAEt9ZKkWB4IQePoJJtWdY?ext=png",
+      "metadata_hash": "88eeed2613c6e18423956fdf7dda0a61523b3c2fffbe44604b3db6c8d0553007",
+      "metadata_link": "https://arweave.net/T3p87eCvpz92kGggi0IacJ1QzwAc9KKKyrr5e8VdRLU",
+      "onChain": true
+    },
+    "6": {
+      "name": "Tomodachi #6",
+      "image_hash": "76935a5edca65faa13334aa2288f50f7e2508b404148a2743986d41bae153e4c",
+      "image_link": "https://arweave.net/jDSlyazzqrxlxbrM7X99Hl-H4wfluyBpy5O1MWHAfBo?ext=png",
+      "metadata_hash": "7c2e343be4f15cbea17793d2699490282e874da30e3192958bcb45423382074e",
+      "metadata_link": "https://arweave.net/9Y5nW8kpSckoDoxj05CfD06u5BQyhzaxMiUm5utKDGg",
+      "onChain": true
+    },
+    "7": {
+      "name": "Tomodachi #7",
+      "image_hash": "3f2c10c23390e5d2beed640f26bcdfbc3d9c588930a4a95edc70b57d6e9819a2",
+      "image_link": "https://arweave.net/t4RVEdJRzfNt-WAZJMn7xi3lAyB2kuwcTvI3tOwyze0?ext=png",
+      "metadata_hash": "54ce954116eff84dea5d82da173ac3325527c131540f465a5d4fec406b591fee",
+      "metadata_link": "https://arweave.net/L3EKG2p4TvuUCavgRiCaU3ibNp5U4Dg8OSl1c5OZD0k",
+      "onChain": true
+    },
+    "8": {
+      "name": "Tomodachi #8",
+      "image_hash": "2ab0f68581ec994801151c3895a4b1bfb0a073b084f79feca1242d38b280f247",
+      "image_link": "https://arweave.net/2S8YYGCmpw-VPn4Yb6TmOTRjnVBEXA-ykVgdkmYKKFw?ext=png",
+      "metadata_hash": "81b2e529b530c3c7c46a74df32a002bcc8140ca642a99bf896dc4c43fcc0cc90",
+      "metadata_link": "https://arweave.net/tTY4h-t2OLz0XUpnXU6ALv6PnYjGED3ocSn_DIUiOpk",
+      "onChain": true
+    },
+    "9": {
+      "name": "Tomodachi #9",
+      "image_hash": "2818cb097cb6a3b1a6b627ee42b4a6c880d88c74ca88071bdcad88183605685d",
+      "image_link": "https://arweave.net/cS6CJAG7cLjohR7rIxX8cSNrydtM2GKVbA-QEeOEuRI?ext=png",
+      "metadata_hash": "0d7069fd47dbbb43a16239575885a376bb6325de0ebc4d73527cbfda8ce3c072",
+      "metadata_link": "https://arweave.net/7tUPp7gg2BzDlEWhA5fodJRcLA-SluXnfQuSJl8DQSw",
+      "onChain": true
+    },
+    "10": {
+      "name": "Tomodachi #10",
+      "image_hash": "0ffeaa10d7e4a05bf54d9a1e554db68402b9660fdd9f599be80e1f1863ef44e5",
+      "image_link": "https://arweave.net/1Fm10-qr4I9fcPgLC1BakGuziuNMvaSvN2ODNs3Y0SI?ext=png",
+      "metadata_hash": "cd4663413642ab92d84fa6294779b315fa8a82aa8d7da26f224281f97f667d80",
+      "metadata_link": "https://arweave.net/6XuZ7KWCyTtMESt9JR8Nd_ABxTtHmd8fvZnl-IoaY5M",
+      "onChain": true
+    },
+    "11": {
+      "name": "Tomodachi #11",
+      "image_hash": "755de4c19220f1afd5be24189a98a60dc0b7f163af950e24c4707aa4f8b10c7b",
+      "image_link": "https://arweave.net/3Ap7UIwxFy9uwXtRakYxGvQYM_XDCqe-u8HFIAkSWs8?ext=png",
+      "metadata_hash": "d851a01df2817651583b3233dfbaaddcf7463992ee8c9fc56438494e71734606",
+      "metadata_link": "https://arweave.net/yTUWFEXjQq4aJ7Yxq0bgg6gGlW_DQsTDMWTSrdiNeo4",
+      "onChain": true
+    },
+    "12": {
+      "name": "Tomodachi #12",
+      "image_hash": "7c90c0f2afb2c08da7c5f5592b5dbeb69f943bb6fdd6f1bbd9bf16e56745bafa",
+      "image_link": "https://arweave.net/LUwIMW3Zms8qmUceHwe2MqbTUJ8YL51RaNY6ZOVobUQ?ext=png",
+      "metadata_hash": "c0709c2d012e9fd1f4c7ac0d9dd8974379b1a3f269451be26bfa33bef3c81dce",
+      "metadata_link": "https://arweave.net/pLBsiNPCm7tDNwyEYQVUUxG1V8dETgSeQpGvkBRcdXM",
+      "onChain": true
+    },
+    "13": {
+      "name": "Tomodachi #13",
+      "image_hash": "7344646b1b2acd97e89f3a5f86b9d032a15af5b63a5f0ebd255f1bcbfd3d4a92",
+      "image_link": "https://arweave.net/tHZyVKPo5MFuP4X7ikCE-G7WJTopk8FQ28Mfe_pa1dw?ext=png",
+      "metadata_hash": "2f4636965ee28b95deca80ada3dfdc6824f2e18cff95ec4bc5e393b9661c5484",
+      "metadata_link": "https://arweave.net/MXWcamY7zU1mTPubZuFQNu-w3Z5BsUmtWb95L87lIL4",
+      "onChain": true
+    },
+    "14": {
+      "name": "Tomodachi #14",
+      "image_hash": "4c26d6248b0d3cc98c7604c884ff26cfd903ee464caf727e3d6c13f242546388",
+      "image_link": "https://arweave.net/Cpa5nB45006FAO_CKFMaPDSLE7cp7aLXUYFqg8U4hDQ?ext=png",
+      "metadata_hash": "e62893d46a7c217333f75c912bdf80134f338f98c33faadc94fdd9057d4379da",
+      "metadata_link": "https://arweave.net/HDWJgHda0lXVQ1F_SLRWL98zZQFBE8ngM81objTHiAg",
+      "onChain": true
+    },
+    "15": {
+      "name": "Tomodachi #15",
+      "image_hash": "7b34e3186551fb4cda3f70f8b12d78b25ad862f0b253c7538455b726db4ea71e",
+      "image_link": "https://arweave.net/g_HKg82A09Eo0JMZx-9ZlGNeP0-We7LFRvIKgsL0aoc?ext=png",
+      "metadata_hash": "edad20d1f61d173971442276bf7e681548244fd513642aded668607cef9ae058",
+      "metadata_link": "https://arweave.net/uZGS8ygW06p917FFec9vGLsP5wpGEEdgW3eIFRgZHmY",
+      "onChain": true
+    },
+    "16": {
+      "name": "Tomodachi #16",
+      "image_hash": "91ecf0bff0c48fdc8ec66e9b3b7a58f48402adfa8bc0a294d0d20ee85260d94d",
+      "image_link": "https://arweave.net/tUS0KE2ou6Pbr4cqrmT_ChpgpBaRYD4jvmZOHrmsFNk?ext=png",
+      "metadata_hash": "5608370e187f2845fc5c1924fb02327117faac1eebbab71a79cb37bd02286787",
+      "metadata_link": "https://arweave.net/1s4wOFVNlxLYMGH-SnVM_-iT-XcRv2pUv74HNTWq9lg",
+      "onChain": true
+    },
+    "17": {
+      "name": "Tomodachi #17",
+      "image_hash": "eac3549f809572ad8e448f4c4628ccfe5739746fa2fa2d1c8c1e0b5563a085eb",
+      "image_link": "https://arweave.net/_IBe12qBW3vdgEa3YCYkiuD6R6eKbmIGnQa2jWnxWY0?ext=png",
+      "metadata_hash": "131031418a6b5e616d83b5c34e8400261cb3c24533f8fe696c44cd884592ea33",
+      "metadata_link": "https://arweave.net/daeLgUoHwexqH1XJBJxupRcMYbL0bYhqvQSrkBypHA0",
+      "onChain": true
+    },
+    "18": {
+      "name": "Tomodachi #18",
+      "image_hash": "32434e4e312d492faac471f414c727aeac1a236520b2b67ba4237ef23e8aa2c8",
+      "image_link": "https://arweave.net/4PpVT5sk7BcdetmYZBoq0TomaJXl6J5PLbQgE5110H8?ext=png",
+      "metadata_hash": "736cc58484681c878db869c57442a3b0eeac67f37899577ede1089d9c032c96d",
+      "metadata_link": "https://arweave.net/dpwQzZF5K17814MRPuSGwURBDk0PtVYjp-bjfwcYqNg",
+      "onChain": true
+    },
+    "19": {
+      "name": "Tomodachi #19",
+      "image_hash": "2e536693ca87177396c8f555d8a2ae96115de840adccf02e31360a7871799a8f",
+      "image_link": "https://arweave.net/IB1RTZk1t0UFyh2Y7ElejmY3lmDrWSunt9FYwwEUu9A?ext=png",
+      "metadata_hash": "29375160929c64d0fd57fc74d8d2aa0ac12a77057fcd9d5c72708b192134dd8b",
+      "metadata_link": "https://arweave.net/xREPhb3XmAneZejxHaF7jgT2q5Lcg0Ptm355CvJT9UY",
+      "onChain": true
+    },
+    "20": {
+      "name": "Tomodachi #20",
+      "image_hash": "806e283e6886833b054896a855523069a9d0b3d53d9197817f51fcaf172bc9c4",
+      "image_link": "https://arweave.net/ZjunZoqKFcnSW399OIZVzIhXLFFLhg_Xk2X_yM501Xs?ext=png",
+      "metadata_hash": "06a8a5889706688f973a30c2d3ac1751669055ee6ef3a1c7c0eb1aab5f6f0419",
+      "metadata_link": "https://arweave.net/u7coLpn1NhpNwFbfT2jF-bPiORtfrW66McothD5bItg",
+      "onChain": true
+    },
+    "21": {
+      "name": "Tomodachi #21",
+      "image_hash": "6fae8a3360a008f737beca5a7c1604e2e733f890751228aca3b2a87ee44047dd",
+      "image_link": "https://arweave.net/RQzBy8bjXWHJseY75UcKZC6uCaV9ZECKvM1omN4qe8o?ext=png",
+      "metadata_hash": "1741177ae11b4e85795e0ed797a424bcdf3203d66a915510cb09a6d53f6f13d6",
+      "metadata_link": "https://arweave.net/pJVtjs309_01QKE8qiv7XGmUZZefg_d9NOFlPMyJMLQ",
+      "onChain": true
+    },
+    "22": {
+      "name": "Tomodachi #22",
+      "image_hash": "1160ffebe647d6ee0e78069fcfe6d54b889027e8d0a958b9d3cf1dd66ce3832e",
+      "image_link": "https://arweave.net/Mm8GRqrL1d1vw3QJdJUlLWa9wSNXwfH9aUfu1bvMjrE?ext=png",
+      "metadata_hash": "98130921ac8616a1512393ba3b0ae6736268a8744d1684c0bef66b19021d81dd",
+      "metadata_link": "https://arweave.net/BLyH5jmXDw3inuMCW9EXR7z-6CEG6Ve-ERyWpMLMKMA",
+      "onChain": true
+    },
+    "23": {
+      "name": "Tomodachi #23",
+      "image_hash": "2916a17a2d72c2a120f8570812ee8110c6cbe54c9ef0f7cfaa6b59e6a0885a19",
+      "image_link": "https://arweave.net/xcF6v90KuWyNBPaXE4CB9d4WI0IULYVpa4qJjP9q64Q?ext=png",
+      "metadata_hash": "88add0afcbe0864efbd172abb1699531e8d4b972d4cb8cfb11b756d5215f1650",
+      "metadata_link": "https://arweave.net/-_IsbOpxzO4nPfFd0KKbCtn7X3fS-YrA4BSNhMMvxpI",
+      "onChain": true
+    },
+    "24": {
+      "name": "Tomodachi #24",
+      "image_hash": "022caa600a8de271a8a546febcd91041dcc7543ba9b1e7571c24dafc0554dd67",
+      "image_link": "https://arweave.net/eQ1OJYAcLGTUERqgL6otb-YP-UkXLAWALwU4wErLwgQ?ext=png",
+      "metadata_hash": "1f363d091806fdc50d920544e047514a70eacc851ce430de771d7d12239cc073",
+      "metadata_link": "https://arweave.net/7ln53Mf6iifCHeoX5n3YS4xvgEU1GPBuAQMqQKp3Tqo",
+      "onChain": true
+    },
+    "25": {
+      "name": "Tomodachi #25",
+      "image_hash": "b8684811f534b84b1de22ecbd01df04a9522b9084e457c93c9e2093f3a55bf60",
+      "image_link": "https://arweave.net/5lfdTnFPyBYESxtaDNW5U8iLkyVpJVMfePsBGVJv4cM?ext=png",
+      "metadata_hash": "a37054db96048fa054fb8d51e1ae954d47a0d27ceeee0131e5080d06568a7945",
+      "metadata_link": "https://arweave.net/rTK5fhn_G_44gRqMIvuyQUw45WOeZXdRGjA8kcfBqfw",
+      "onChain": true
+    },
+    "26": {
+      "name": "Tomodachi #26",
+      "image_hash": "ac212ac12e79aaed1ffa7472e8091130993c082515d4d6f0db7066f98a9745a9",
+      "image_link": "https://arweave.net/4R8y10EdmHabdmAnu9kX1qL7dbANsJIWigtm2fOnLuU?ext=png",
+      "metadata_hash": "aa931d89df7c1582bd5d74b2c94cabd0de257bc05a87823fd4a0645d69ae5cce",
+      "metadata_link": "https://arweave.net/3tOIOdrPHwd-y6u3f7TW5R96_gz49agGPlRMKJW3mE0",
+      "onChain": true
+    }
+  }
+}

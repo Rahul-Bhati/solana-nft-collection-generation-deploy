@@ -1,0 +1,38 @@
+{
+  "name": "Tomodachi #19",
+  "symbol": "Tomo",
+  "description": "My first collection",
+  "seller_fee_basis_points": 1000,
+  "image": "19.png",
+  "external_url": "https://rahul-bhati.github.io/",
+  "edition": 19,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "HotPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Oval"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "19.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5rZv3dFVpj1kJFDdfif5gANUhGLXzRAB7uKUjDVq36Jn",
+        "share": 100
+      }
+    ]
+  }
+}
